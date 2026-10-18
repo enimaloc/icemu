@@ -8,7 +8,7 @@ plugins {
     id 'java'
 }
 
-def JUNIT_VERSION = "5.14.4"
+def JUNIT_VERSION = "6.1.3"
 
 group 'fr.enimaloc'
 version '0.1.0'
